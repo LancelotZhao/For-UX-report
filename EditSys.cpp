@@ -33,5 +33,6 @@ void editInfo() {
         else return;
     } else {
         cout << "The book you want to edit doesn't exist in the system. Fail to change!" << endl;
+        cot << "This is " << end;
     }
 }
